@@ -1,0 +1,19 @@
+date,category,orders,revenue
+2026-01-01,Electronics,120,12500
+2026-01-01,Clothing,80,4200
+2026-01-01,Home & Kitchen,45,3100
+2026-02-01,Electronics,135,14200
+2026-02-01,Clothing,90,4700
+2026-02-01,Home & Kitchen,50,3400
+2026-03-01,Electronics,150,15800
+2026-03-01,Clothing,85,4500
+2026-03-01,Home & Kitchen,60,4000
+2026-04-01,Electronics,145,15300
+2026-04-01,Clothing,100,5200
+2026-04-01,Home & Kitchen,55,3700
+2026-05-01,Electronics,160,16900
+2026-05-01,Clothing,95,4900
+2026-05-01,Home & Kitchen,65,4300
+2026-06-01,Electronics,175,18400
+2026-06-01,Clothing,110,5700
+2026-06-01,Home & Kitchen,70,4600
